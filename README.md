@@ -13,8 +13,20 @@ Optimization and Learning Lab, working on Frank-Wolfe methods and the mixed-inte
 | [income-prediction](https://github.com/ardanoyan/income-prediction) | Customer income prediction for a digital bank, built on the bank's customer data: OLS, LASSO, random forest, XGBoost and LightGBM in R tidymodels, and two Shiny apps. The confidential data stays out; a synthetic generator keeps the notebook runnable. Senior design project with Hayat Finans. |
 | [stock-screener](https://github.com/ardanoyan/stock-screener) | A daily US equity screener with indicators, an options-flow signal, scores with reasons, DuckDB, a local dashboard and a backtest that found no edge and says so. Python. |
 | [gesplan](https://github.com/ardanoyan/gesplan) | Rooftop solar design in the browser: satellite basemap, draw the roof, automatic module layout, PVGIS yield. Next.js, MapLibre, Terra Draw. |
-| [mori-yaki](https://github.com/ardanoyan/mori-yaki), [puma-design-studio](https://github.com/ardanoyan/puma-design-studio), [kivanc-web](https://github.com/ardanoyan/kivanc-web) | Sites built for clients: a robatayaki restaurant, an interior design studio, an industrial group. Next.js and TypeScript, with hand-written motion. |
+| [mori-yaki](https://github.com/ardanoyan/mori-yaki), [kivanc-web](https://github.com/ardanoyan/kivanc-web) | Sites built for clients: a robatayaki restaurant ([live](https://mori-yaki.vercel.app)) and an industrial group. Next.js and TypeScript, with hand-written motion. |
 | [arda-portfolio](https://github.com/ardanoyan/arda-portfolio) | My own site, [arda-portfolio-ten.vercel.app](https://arda-portfolio-ten.vercel.app). |
+
+## Creative direction
+
+[Puma Design Studio](https://pumadesignstudio.com), Istanbul, 2026: creative direction, motion and build of the studio's
+site, from the entrance sequence to the furniture pages. The source stays private; the site is the work.
+
+<table><tr>
+<td><a href="https://pumadesignstudio.com"><img src="assets/puma-entrance.jpg" alt="Puma Design Studio, entrance" width="100%"></a></td>
+<td><a href="https://pumadesignstudio.com"><img src="assets/puma-hero.jpg" alt="Puma Design Studio, home" width="100%"></a></td>
+</tr></table>
+
+<a href="https://pumadesignstudio.com/furniture"><img src="assets/puma-furniture.jpg" alt="Puma Design Studio, furniture" width="100%"></a>
 
 ## Tools
 
